@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MortgageCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="purchasePrice">PurchasePrice</string>
+    <string name="downPayment">DownPayment</string>
+    <string name="interestRate">InterestRate</string>
+    <string name="period">Period</string>
+    <string name="year10">10years</string>
+    <string name="year20">20years</string>
+    <string name="year30">30years</string>
+    <string name="monthlyPayment">MonthlyPaymont :</string>
+    <string name="customPeriodAmount">CustomPeriodAmount</string>
+
+</resources>
